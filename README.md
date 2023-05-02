@@ -1,1 +1,1 @@
-# HOST-GSCHEMA
+"# BO-gschema" 
